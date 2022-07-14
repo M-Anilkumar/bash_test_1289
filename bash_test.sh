@@ -121,5 +121,6 @@ fi
 
 rm -r DIR_BY_1289
 
+echo "Thank you"
 
 
