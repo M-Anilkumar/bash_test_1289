@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+echo "Sample test"
 echo "creating a new Directory in present DIR, with the name \"DIR_BY_1289\""
 
 mkdir DIR_BY_1289
